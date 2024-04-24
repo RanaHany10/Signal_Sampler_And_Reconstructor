@@ -1,7 +1,12 @@
-# Sampling-Theory Studio
+# Signal_Sampler_And_Reconstructor
 
 ## Description
 **Sampling-Theory Studio** is a user-friendly desktop application designed to illustrate the Nyquist–Shannon sampling theorem. This application provides an interactive platform for users to explore signal sampling, recovery, and the significance of the Nyquist rate.
+
+## GUI
+![Screenshot (747)](https://github.com/RanaHany10/Signal_Sampler_And_Reconstructor/assets/115092108/043f93be-82cd-4199-9c0e-3981ac40a3fa)
+
+![Screenshot (748)](https://github.com/RanaHany10/Signal_Sampler_And_Reconstructor/assets/115092108/d802bcae-a7e1-4488-9cd0-e700606d8657)
 
 ### Key Features
 1. Sample & Recover:
